@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CozidoApp</string>
+    <string name="teste">\"Funicionou \"</string>
+    <string name="cozer">30 min</string>
+    <string name="porcao"> 4 pessoas</string>
+    <string name="calorias">2.5 kg</string>
+
+</resources>
